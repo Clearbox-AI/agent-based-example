@@ -2,7 +2,7 @@
 
 This repository provides an example of generating a dataset with an agent-based approach. The dataset contains customer purchase histories, and is created by simulating interactions between products, customers, and stores.
 
-##Contents
+## Contents
 
 - main.py: The main script responsible for generating the TRANSACTIONS table using an agent-based approach.
 - params.yaml: A configuration file containing various parameters that can be used to fine-tune the generation of the TRANSACTIONS table.
@@ -11,7 +11,7 @@ This repository provides an example of generating a dataset with an agent-based 
 - STORES.csv: A synthetically generated table containing information about stores.
 - TRANSACTIONS.csv: The output file containing the generated customer purchase histories.
 
-##Usage
+## Usage
 To generate the TRANSACTIONS table, simply run the main.py script:
 
 ```bash
