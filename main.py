@@ -2,6 +2,7 @@ import pandas as pd
 from utils import generate_datetime_string, generate_days, distances
 import numpy as np
 import yaml
+from tqdm import tqdm
 
 
 def main():
@@ -31,10 +32,11 @@ def main():
     listprods_b
     w = 0
     tot_bikes=0
-    for i in range(min(n_customers, df.shape[0])):
+    print('Generating data...')
+    for i in tqdm(range(min(n_customers, df.shape[0]))):
         high_income = df.iloc[i]['high_income']
         day = generate_datetime_string(np.random.choice(days))
-        print(i,day)
+        #print(i,day)
         d=np.array(list(distances[df.iloc[i]['city']].values()))
         pshop = 1./(d+1.)
         pshop = pshop/pshop.sum()    
@@ -144,3 +146,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print('Generated TRANSACTIONS.csv file.')
