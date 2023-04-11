@@ -1,0 +1,6 @@
+n_days: 30
+n_customers: 1500
+price_propensity: 4
+income_propensity: 0.2
+min_products_per_transaction: 1
+max_products_per_transaction: 5

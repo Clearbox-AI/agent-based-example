@@ -1,0 +1,56 @@
+product_id,product,category,buy_price,MSRPprice,discount,quantity_in_stock
+1,Road Bike - Specialized Allez,Bikes,461,923,0,7
+2,Mountain Bike - Trek Marlin 5,Bikes,230,576,10,12
+3,Hybrid Bike - Cannondale Quick,Bikes,307,769,0,9
+4,Electric Bike - Giant Explore E+ 4,Bikes,769,1923,0,4
+5,Folding Bike - Dahon Mariner D8,Bikes,200,500,0,14
+6,Road Bike Helmet - Giro Syntax,Helmets,46,76,10,66
+7,Mountain Bike Helmet - Bell 4Forty,Helmets,30,61,0,112
+8,BMX Helmet - Fox Proframe,Helmets,61,153,0,38
+9,Kids Helmet - Nutcase Little Nutty,Helmets,27,46,0,121
+10,Triathlon Helmet - Kask Bambino Pro,Helmets,184,307,0,15
+11,Road Bike Pedals - Shimano Ultegra PD-R8000,Pedals,92,153,0,30
+12,Mountain Bike Pedals - Race Face Atlas,Pedals,46,115,0,64
+13,Clipless Pedals - Look Keo 2 Max,Pedals,55,92,0,59
+14,Platform Pedals - Crankbrothers Stamp,Pedals,27,46,0,120
+15,Gravel Bike Pedals - Shimano GRX PD-RX810,Pedals,69,138,0,43
+16,Road Bike Wheels - Zipp 303 Firecrest,Wheels,769,1538,0,3
+17,Mountain Bike Wheels - DT Swiss XMC 1200 Spline,Wheels,576,1153,0,5
+18,Gravel Bike Wheels - ENVE G23,Wheels,1153,1923,10,2
+19,Triathlon Bike Wheels - HED Jet 9,Wheels,830,1384,0,3
+20,Fat Bike Wheels - DT Swiss BR 2250,Wheels,369,615,0,6
+21,Road Bike Tires - Continental Grand Prix 5000,Tires & Tubes,32,53,10,94
+22,Mountain Bike Tires - Maxxis Minion DHF,Tires & Tubes,36,61,0,89
+23,Gravel Bike Tires - Panaracer GravelKing SK,Tires & Tubes,27,46,0,106
+24,Tubeless Sealant - Stans NoTubes,Tires & Tubes,9,15,0,300
+25,Inner Tubes - Continental Race 28,Tires & Tubes,3,7,0,300
+26,Road Bike Drop Handlebars - Zipp Service Course SL,Handlebars & Grips,30,76,0,113
+27,Mountain Bike Handlebars - Renthal Fatbar Lite,Handlebars & Grips,24,61,0,130
+28,BMX Handlebars - Cult AK,Handlebars & Grips,18,46,0,195
+29,Handlebar Grips - ODI Rogue,Handlebars & Grips,7,19,0,300
+30,Aero Handlebars - Profile Design T5+ Carbon,Handlebars & Grips,76,153,0,44
+31,Road Bike Brakes - Shimano Ultegra BR-R8000,Brakes,61,153,0,47
+32,Mountain Bike Brakes - SRAM Code R,Brakes,83,138,0,34
+33,BMX Brakes - Odyssey Springfield,Brakes,15,38,0,161
+34,Hydraulic Brake Bleed Kit - Park Tool,Brakes,38,76,0,87
+35,Disc Brake Pads - Shimano J04C Metal,Brakes,12,30,0,237
+36,Road Bike Groupset - Shimano Ultegra R8000,Gears & Drivetrains,307,769,0,9
+37,Mountain Bike Groupset - SRAM GX Eagle,Gears & Drivetrains,215,538,0,14
+38,Gravel Bike Groupset - Shimano GRX RX800,Gears & Drivetrains,276,692,0,11
+39,Chain - Shimano Dura-Ace CN-HG901-11,Gears & Drivetrains,19,38,0,153
+40,Cassette - SRAM XG-1295 Eagle,Gears & Drivetrains,76,192,0,37
+41,Front Bike Light - NiteRider Lumina 1200 Boost,Lights,38,76,10,78
+42,Rear Bike Light - Cygolite Hotshot Pro 200,Lights,18,30,0,188
+43,Headlamp - Petzl Actik Core,Lights,26,53,0,115
+44,Taillight - Bontrager Flare RT,Lights,24,61,0,91
+45,Light Combo Set - Knog Blinder Road 400,Lights,40,100,0,86
+46,Panniers - Ortlieb Back-Roller Classic,Bags & Racks,55,138,0,53
+47,Rear Rack - Topeak Super Tourist DX,Bags & Racks,27,46,0,101
+48,Handlebar Bag - Revelate Designs Sweetroll,Bags & Racks,33,84,0,85
+49,Frame Bag - Apidura Expedition,Bags & Racks,73,123,0,48
+50,Trunk Bag - Bontrager Town Double Throw,Bags & Racks,21,53,0,150
+51,Multi-Tool - Crankbrothers M19,Tools & Maintenance,11,23,0,256
+52,Floor Pump - Topeak Joe Blow Sport III,Tools & Maintenance,15,38,0,162
+53,Chain Lube - Finish Line Ceramic Wax,Tools & Maintenance,3,9,0,300
+54,Work Stand - Park Tool PCS-10.2,Tools & Maintenance,103,173,0,26
+55,Tire Lever Set - Pedros Tire Levers,Tools & Maintenance,1,3,0,300
